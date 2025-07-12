@@ -124,8 +124,17 @@ Chatbot/
 
 **Note**: You only need to set **one** of the LLM API keys. The application will automatically detect which one you've configured.
 
-### Adding Documents
+📌 Notes for Users
 
+⛔️ Important: Be sure to replace the dummy files inside the me/ folder before using this chatbot for anything real.
+
+👻 linkedin.pdf → replace with your own resume
+
+🖊️ summary.txt → write a short professional summary in plain text
+
+This bot is designed to reflect your own profile, so make sure the data inside me/ is yours.
+
+### Adding Documents
 1. **Supported formats**: PDF, TXT, MD
 2. **Place files** in the `me/` folder
 3. **Restart the app** to process new documents
