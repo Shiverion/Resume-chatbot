@@ -167,9 +167,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **LinkedIn**: [Muhammad Iqbal Hilmy Izzulhaq](https://linkedin.com/in/muhammad-iqbal-hilmy-izzulhaq)
-- **Email**: muhammad.iqbal.hilmy@gmail.com
-- **GitHub**: [@miqbal-hilmy](https://github.com/miqbal-hilmy)
+- **LinkedIn**: [Muhammad Iqbal Hilmy Izzulhaq](https://linkedin.com/in/izzulhaq-iqbal)
+- **Email**: miqbal.izzulhaq@gmail.com
+- **GitHub**: [@Shiverion](https://github.com/Shiverion)
 
 ---
 
