@@ -1,8 +1,5 @@
-requests
-python-dotenv
-gradio
-pypdf
+pandas
 openai
-openai-agents
 chromadb
-numpy
+gradio
+python-dotenv
